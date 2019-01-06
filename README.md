@@ -1,5 +1,8 @@
-# a test project
+# (archived repo) a test project
+
 re https://code.djangoproject.com/ticket/25454#comment:2
+
+This bug has been fixed a while back, hence this repo has been archived.
 
 to reproduce the bug:
 
